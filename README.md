@@ -8,4 +8,4 @@
 
 
 
-<img src="/images/PingPong_serve.jpg" width="600px" height="600px"></img>
+<img src="/images/PingPong_serve.jpg" width="300px" height="300px"></img>
