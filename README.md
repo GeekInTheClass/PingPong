@@ -29,9 +29,7 @@
 7. 라켓의 움직임의 이미지를 그려 보고, 적절한 평면을 순간적으로 판단한다
 8. 휘두르기 시작하여 기본자세로 돌아올 때까지 스윙을 멈추지 않는다
 
-
-
-<embed width="420" height="315"
-src="https://youtu.be/RHsBtun1hbw">
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RHsBtun1hbw/0.jpg)](https://www.youtube.com/watch?v=RHsBtun1hbw)
 
 위 동영상을 보고 따라 할 수 있다면, 이미 당신은 탁구의 세계에 빠진 것이다.
+
