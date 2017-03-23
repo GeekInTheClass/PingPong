@@ -14,7 +14,7 @@
 
 <img src="/images/PingPong_serve.jpg" width="300px" height="300px"></img>
 
-
+<a href="/skills/SERVE.md>상세한 설명은 여기로</a>
 
 ## Drive
 
@@ -32,4 +32,3 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RHsBtun1hbw/0.jpg)](https://www.youtube.com/watch?v=RHsBtun1hbw)
 
 위 동영상을 보고 따라 할 수 있다면, 이미 당신은 탁구의 세계에 빠진 것이다.
-
