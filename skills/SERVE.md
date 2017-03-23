@@ -12,7 +12,7 @@
 
 회전을 넣지 않는 무회전, 즉 너클성 서브도 존재 한다.
 
-<img src="/images/pingpong_serve.png"></img>
+<img src="/images/pinpong_serve.png"></img>
 
 
 
