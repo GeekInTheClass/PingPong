@@ -31,7 +31,7 @@
 
 
 
-@[탁구 드라이브](https://www.youtube.com/watch?v=RHsBtun1hbw)
+<embed width="420" height="315"
+src="https://youtu.be/RHsBtun1hbw">
 
 위 동영상을 보고 따라 할 수 있다면, 이미 당신은 탁구의 세계에 빠진 것이다.
-
