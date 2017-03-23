@@ -14,7 +14,7 @@
 
 <img src="/images/PingPong_serve.jpg" width="300px" height="300px"></img>
 
-<a href="/skills/SERVE.md>상세한 설명은 여기로</a>
+<a href="/skills/SERVE.md">상세한 설명은 여기로</a>
 
 ## Drive
 
